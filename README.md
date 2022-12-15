@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static.wikia.nocookie.net/geekpediabr/images/a/a4/8641CD99-093F-4F85-9A26-388494EB3A7F.jpeg/revision/latest?cb=20190722190346" width="30%">
+<img src="https://akamai.sscdn.co/uploadfile/letras/playlists/7/2/4/d/724dd62dff2a4e8f910386b24c933d92.jpg" width="30%">
   <h1 style="border-bottom:none">API Star Wars</h1>
   <p>Author: José Ricardo</p>
   
