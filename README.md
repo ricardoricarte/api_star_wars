@@ -1,7 +1,16 @@
-# api_star_wars
-Consumindo API do Star Wars com Spring WebFlux
-![header_spring_webflux](https://user-images.githubusercontent.com/56279938/206941549-fe9e1871-d3a5-43f7-9fd7-75ae44949aa1.jpg)
+<div align="center">
+<img src="https://static.wikia.nocookie.net/geekpediabr/images/a/a4/8641CD99-093F-4F85-9A26-388494EB3A7F.jpeg/revision/latest?cb=20190722190346" width="30%">
+  <h1 style="border-bottom:none">API Star Wars</h1>
+  <p>Author: José Ricardo</p>
+  
+  <a href="https://www.linkedin.com/in/ze-ricardo/">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.buymeacoffee.com/codeandmusic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee"      height="28" width="174"></a>
+  
+  <br>
+  <br>
+  <p>Consumo da Api Star Wars/WebClient</p>
+  <br>
 
-
-
-![star-wars](https://user-images.githubusercontent.com/56279938/206941444-3ee2fda6-a671-473e-83de-4989fedd8c7b.png)
+</div>
