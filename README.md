@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://akamai.sscdn.co/uploadfile/letras/playlists/7/2/4/d/724dd62dff2a4e8f910386b24c933d92.jpg" width="30%">
+<img src="https://akamai.sscdn.co/uploadfile/letras/playlists/7/2/4/d/724dd62dff2a4e8f910386b24c933d92.jpg" width="50%">
   <h1 style="border-bottom:none">API Star Wars</h1>
   <p>Author: José Ricardo</p>
   
